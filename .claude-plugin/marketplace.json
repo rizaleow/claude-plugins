@@ -1,0 +1,17 @@
+{
+  "name": "rizaleow",
+  "description": "Plugins by rizaleow",
+  "owner": {
+    "name": "Rizal",
+    "email": "rizaleow@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "hostinger-cli",
+      "source": "./plugins/hostinger-cli",
+      "description": "Model-invoked skills for managing Hostinger VPS, DNS, and domains via the hostinger-cli binary",
+      "category": "devops",
+      "keywords": ["hostinger", "vps", "dns", "domains", "cli"]
+    }
+  ]
+}

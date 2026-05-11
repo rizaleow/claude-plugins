@@ -1,0 +1,13 @@
+{
+  "name": "hostinger-cli",
+  "description": "Skills for managing Hostinger VPS, DNS, and domains via the hostinger-cli binary",
+  "version": "0.1.0",
+  "author": {
+    "name": "Rizal",
+    "email": "rizaleow@gmail.com"
+  },
+  "homepage": "https://github.com/rizaleow/hostinger-cli",
+  "repository": "https://github.com/rizaleow/claude-plugins",
+  "license": "MIT",
+  "keywords": ["hostinger", "vps", "dns", "domains", "cli"]
+}
