@@ -12,6 +12,13 @@
       "description": "Model-invoked skills for managing Hostinger VPS, DNS, and domains via the hostinger-cli binary",
       "category": "devops",
       "keywords": ["hostinger", "vps", "dns", "domains", "cli"]
+    },
+    {
+      "name": "filament-boost",
+      "source": "./plugins/filament-boost",
+      "description": "Filament v5 expert mode for Claude Code, extending Laravel Boost with MCP tools, skills, commands, and agents",
+      "category": "laravel",
+      "keywords": ["filament", "laravel", "boost", "mcp", "admin-panel", "v5"]
     }
   ]
 }

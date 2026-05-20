@@ -1,0 +1,13 @@
+{
+  "name": "filament-boost",
+  "description": "Filament v5 expert mode for Claude Code, extending Laravel Boost with MCP tools, skills, commands, and agents",
+  "version": "0.1.0",
+  "author": {
+    "name": "Rizal",
+    "email": "rizaleow@gmail.com"
+  },
+  "homepage": "https://github.com/rizaleow/filament-boost",
+  "repository": "https://github.com/rizaleow/claude-plugins",
+  "license": "MIT",
+  "keywords": ["filament", "laravel", "boost", "mcp", "admin-panel", "v5"]
+}
